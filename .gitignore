@@ -1,0 +1,6 @@
+# Ignore excel files, training, .idea and venv subdirectories
+*.xlsx
+.idea/
+training/
+venv/
+.DS_Store
